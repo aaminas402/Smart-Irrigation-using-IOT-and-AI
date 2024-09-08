@@ -40,3 +40,4 @@ Our system leverages sensors and machine learning to provide farmers with action
 
 Our project aims to reduce the environmental impact of fertilizers by giving farmers the tools to monitor their soil health and apply only the necessary amount of nutrients.
 
+![Launch Screen](https://github.com/user-attachments/assets/f979baa0-99e2-4863-ba30-b7a188377058)
